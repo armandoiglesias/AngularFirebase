@@ -5,4 +5,13 @@
 
 export const environment = {
   production: false
+  , firebase : {
+    apiKey: "AIzaSyD0ZfQrtXpc5lVPpxZkUf5B5kujLXNcZeo",
+    authDomain: "firechat-b4950.firebaseapp.com",
+    databaseURL: "https://firechat-b4950.firebaseio.com",
+    projectId: "firechat-b4950",
+    storageBucket: "firechat-b4950.appspot.com",
+    messagingSenderId: "932443224484"
+  }
+    
 };
